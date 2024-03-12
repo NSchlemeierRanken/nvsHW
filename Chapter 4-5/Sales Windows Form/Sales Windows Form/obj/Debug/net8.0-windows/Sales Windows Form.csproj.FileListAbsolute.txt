@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales Windows Form\Sales Windows Form\obj\Debug\net8.0-windows\Sales_Windows_Form.Form1.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales Windows Form\Sales Windows Form\obj\Debug\net8.0-windows\Sales Windows Form.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales Windows Form\Sales Windows Form\obj\Debug\net8.0-windows\Sales Windows Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales Windows Form\Sales Windows Form\obj\Debug\net8.0-windows\Sales Windows Form.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales Windows Form\Sales Windows Form\obj\Debug\net8.0-windows\Sales Windows Form.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales Windows Form\Sales Windows Form\obj\Debug\net8.0-windows\Sales Windows Form.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales Windows Form\Sales Windows Form\obj\Debug\net8.0-windows\Sales Windows Form.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales Windows Form\Sales Windows Form\bin\Debug\net8.0-windows\Sales Windows Form.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales Windows Form\Sales Windows Form\bin\Debug\net8.0-windows\Sales Windows Form.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales Windows Form\Sales Windows Form\bin\Debug\net8.0-windows\Sales Windows Form.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales Windows Form\Sales Windows Form\bin\Debug\net8.0-windows\Sales Windows Form.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales Windows Form\Sales Windows Form\bin\Debug\net8.0-windows\Sales Windows Form.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales Windows Form\Sales Windows Form\obj\Debug\net8.0-windows\Sales Windows Form.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales Windows Form\Sales Windows Form\obj\Debug\net8.0-windows\refint\Sales Windows Form.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales Windows Form\Sales Windows Form\obj\Debug\net8.0-windows\Sales Windows Form.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales Windows Form\Sales Windows Form\obj\Debug\net8.0-windows\Sales Windows Form.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales Windows Form\Sales Windows Form\obj\Debug\net8.0-windows\ref\Sales Windows Form.dll

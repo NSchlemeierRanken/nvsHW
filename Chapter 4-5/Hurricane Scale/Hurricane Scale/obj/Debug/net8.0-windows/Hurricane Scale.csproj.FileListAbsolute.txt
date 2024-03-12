@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Hurricane Scale\Hurricane Scale\bin\Debug\net8.0-windows\Hurricane Scale.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Hurricane Scale\Hurricane Scale\bin\Debug\net8.0-windows\Hurricane Scale.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Hurricane Scale\Hurricane Scale\bin\Debug\net8.0-windows\Hurricane Scale.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Hurricane Scale\Hurricane Scale\bin\Debug\net8.0-windows\Hurricane Scale.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Hurricane Scale\Hurricane Scale\bin\Debug\net8.0-windows\Hurricane Scale.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Hurricane Scale\Hurricane Scale\obj\Debug\net8.0-windows\Hurricane_Scale.Form1.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Hurricane Scale\Hurricane Scale\obj\Debug\net8.0-windows\Hurricane Scale.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Hurricane Scale\Hurricane Scale\obj\Debug\net8.0-windows\Hurricane Scale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Hurricane Scale\Hurricane Scale\obj\Debug\net8.0-windows\Hurricane Scale.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Hurricane Scale\Hurricane Scale\obj\Debug\net8.0-windows\Hurricane Scale.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Hurricane Scale\Hurricane Scale\obj\Debug\net8.0-windows\Hurricane Scale.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Hurricane Scale\Hurricane Scale\obj\Debug\net8.0-windows\Hurricane Scale.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Hurricane Scale\Hurricane Scale\obj\Debug\net8.0-windows\Hurricane Scale.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Hurricane Scale\Hurricane Scale\obj\Debug\net8.0-windows\refint\Hurricane Scale.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Hurricane Scale\Hurricane Scale\obj\Debug\net8.0-windows\Hurricane Scale.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Hurricane Scale\Hurricane Scale\obj\Debug\net8.0-windows\Hurricane Scale.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Hurricane Scale\Hurricane Scale\obj\Debug\net8.0-windows\ref\Hurricane Scale.dll

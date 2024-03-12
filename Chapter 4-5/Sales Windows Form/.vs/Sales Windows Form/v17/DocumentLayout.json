@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nathan Schlemeier\\Desktop\\nvsHW\\Chapter 4-5\\Sales Windows Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9A61F8-BAC0-485E-9C37-4473DB8B246D}|Sales Windows Form\\Sales Windows Form.csproj|c:\\users\\nathan schlemeier\\desktop\\nvshw\\chapter 4-5\\sales windows form\\sales windows form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A9A61F8-BAC0-485E-9C37-4473DB8B246D}|Sales Windows Form\\Sales Windows Form.csproj|solutionrelative:sales windows form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9A61F8-BAC0-485E-9C37-4473DB8B246D}|Sales Windows Form\\Sales Windows Form.csproj|c:\\users\\nathan schlemeier\\desktop\\nvshw\\chapter 4-5\\sales windows form\\sales windows form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9A61F8-BAC0-485E-9C37-4473DB8B246D}|Sales Windows Form\\Sales Windows Form.csproj|solutionrelative:sales windows form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Nathan Schlemeier\\Desktop\\nvsHW\\Chapter 4-5\\Sales Windows Form\\Sales Windows Form\\Form1.cs",
+              "RelativeDocumentMoniker": "Sales Windows Form\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nathan Schlemeier\\Desktop\\nvsHW\\Chapter 4-5\\Sales Windows Form\\Sales Windows Form\\Form1.cs",
+              "RelativeToolTip": "Sales Windows Form\\Form1.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAUwFQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T05:11:03.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nathan Schlemeier\\Desktop\\nvsHW\\Chapter 4-5\\Sales Windows Form\\Sales Windows Form\\Form1.cs",
+              "RelativeDocumentMoniker": "Sales Windows Form\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nathan Schlemeier\\Desktop\\nvsHW\\Chapter 4-5\\Sales Windows Form\\Sales Windows Form\\Form1.cs [Design]",
+              "RelativeToolTip": "Sales Windows Form\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T04:59:17.761Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

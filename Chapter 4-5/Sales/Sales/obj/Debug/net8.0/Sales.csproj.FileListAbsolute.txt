@@ -1,0 +1,15 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales\Sales\bin\Debug\net8.0\Sales.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales\Sales\bin\Debug\net8.0\Sales.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales\Sales\bin\Debug\net8.0\Sales.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales\Sales\bin\Debug\net8.0\Sales.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales\Sales\bin\Debug\net8.0\Sales.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales\Sales\obj\Debug\net8.0\Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales\Sales\obj\Debug\net8.0\Sales.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales\Sales\obj\Debug\net8.0\Sales.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales\Sales\obj\Debug\net8.0\Sales.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales\Sales\obj\Debug\net8.0\Sales.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales\Sales\obj\Debug\net8.0\Sales.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales\Sales\obj\Debug\net8.0\refint\Sales.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales\Sales\obj\Debug\net8.0\Sales.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales\Sales\obj\Debug\net8.0\Sales.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Sales\Sales\obj\Debug\net8.0\ref\Sales.dll

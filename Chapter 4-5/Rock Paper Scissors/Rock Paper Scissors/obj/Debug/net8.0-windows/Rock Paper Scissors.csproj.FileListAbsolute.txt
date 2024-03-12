@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net8.0-windows\Rock Paper Scissors.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net8.0-windows\Rock Paper Scissors.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net8.0-windows\Rock Paper Scissors.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net8.0-windows\Rock Paper Scissors.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net8.0-windows\Rock Paper Scissors.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0-windows\Rock_Paper_Scissors.Form1.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0-windows\Rock Paper Scissors.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0-windows\Rock Paper Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0-windows\Rock Paper Scissors.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0-windows\Rock Paper Scissors.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0-windows\Rock Paper Scissors.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0-windows\Rock Paper Scissors.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0-windows\Rock Paper Scissors.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0-windows\refint\Rock Paper Scissors.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0-windows\Rock Paper Scissors.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0-windows\Rock Paper Scissors.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net8.0-windows\ref\Rock Paper Scissors.dll

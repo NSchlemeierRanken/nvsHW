@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\College Admission\College Admission\bin\Debug\net8.0-windows\College Admission.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\College Admission\College Admission\bin\Debug\net8.0-windows\College Admission.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\College Admission\College Admission\bin\Debug\net8.0-windows\College Admission.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\College Admission\College Admission\bin\Debug\net8.0-windows\College Admission.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\College Admission\College Admission\bin\Debug\net8.0-windows\College Admission.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\College Admission\College Admission\obj\Debug\net8.0-windows\College_Admission.Form1.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\College Admission\College Admission\obj\Debug\net8.0-windows\College Admission.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\College Admission\College Admission\obj\Debug\net8.0-windows\College Admission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\College Admission\College Admission\obj\Debug\net8.0-windows\College Admission.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\College Admission\College Admission\obj\Debug\net8.0-windows\College Admission.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\College Admission\College Admission\obj\Debug\net8.0-windows\College Admission.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\College Admission\College Admission\obj\Debug\net8.0-windows\College Admission.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\College Admission\College Admission\obj\Debug\net8.0-windows\College Admission.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\College Admission\College Admission\obj\Debug\net8.0-windows\refint\College Admission.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\College Admission\College Admission\obj\Debug\net8.0-windows\College Admission.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\College Admission\College Admission\obj\Debug\net8.0-windows\College Admission.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\College Admission\College Admission\obj\Debug\net8.0-windows\ref\College Admission.dll

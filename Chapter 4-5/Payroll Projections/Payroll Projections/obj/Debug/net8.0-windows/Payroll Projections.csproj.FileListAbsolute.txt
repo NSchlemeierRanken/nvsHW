@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Payroll Projections\Payroll Projections\bin\Debug\net8.0-windows\Payroll Projections.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Payroll Projections\Payroll Projections\bin\Debug\net8.0-windows\Payroll Projections.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Payroll Projections\Payroll Projections\bin\Debug\net8.0-windows\Payroll Projections.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Payroll Projections\Payroll Projections\bin\Debug\net8.0-windows\Payroll Projections.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Payroll Projections\Payroll Projections\bin\Debug\net8.0-windows\Payroll Projections.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Payroll Projections\Payroll Projections\obj\Debug\net8.0-windows\Payroll_Projections.Form1.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Payroll Projections\Payroll Projections\obj\Debug\net8.0-windows\Payroll Projections.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Payroll Projections\Payroll Projections\obj\Debug\net8.0-windows\Payroll Projections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Payroll Projections\Payroll Projections\obj\Debug\net8.0-windows\Payroll Projections.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Payroll Projections\Payroll Projections\obj\Debug\net8.0-windows\Payroll Projections.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Payroll Projections\Payroll Projections\obj\Debug\net8.0-windows\Payroll Projections.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Payroll Projections\Payroll Projections\obj\Debug\net8.0-windows\Payroll Projections.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Payroll Projections\Payroll Projections\obj\Debug\net8.0-windows\Payroll Projections.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Payroll Projections\Payroll Projections\obj\Debug\net8.0-windows\refint\Payroll Projections.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Payroll Projections\Payroll Projections\obj\Debug\net8.0-windows\Payroll Projections.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Payroll Projections\Payroll Projections\obj\Debug\net8.0-windows\Payroll Projections.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Payroll Projections\Payroll Projections\obj\Debug\net8.0-windows\ref\Payroll Projections.dll

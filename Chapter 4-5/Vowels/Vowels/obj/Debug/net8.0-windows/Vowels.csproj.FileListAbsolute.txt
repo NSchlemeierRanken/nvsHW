@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Vowels\Vowels\bin\Debug\net8.0-windows\Vowels.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Vowels\Vowels\bin\Debug\net8.0-windows\Vowels.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Vowels\Vowels\bin\Debug\net8.0-windows\Vowels.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Vowels\Vowels\bin\Debug\net8.0-windows\Vowels.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Vowels\Vowels\bin\Debug\net8.0-windows\Vowels.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Vowels\Vowels\obj\Debug\net8.0-windows\Vowels.Form1.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Vowels\Vowels\obj\Debug\net8.0-windows\Vowels.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Vowels\Vowels\obj\Debug\net8.0-windows\Vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Vowels\Vowels\obj\Debug\net8.0-windows\Vowels.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Vowels\Vowels\obj\Debug\net8.0-windows\Vowels.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Vowels\Vowels\obj\Debug\net8.0-windows\Vowels.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Vowels\Vowels\obj\Debug\net8.0-windows\Vowels.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Vowels\Vowels\obj\Debug\net8.0-windows\Vowels.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Vowels\Vowels\obj\Debug\net8.0-windows\refint\Vowels.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Vowels\Vowels\obj\Debug\net8.0-windows\Vowels.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Vowels\Vowels\obj\Debug\net8.0-windows\Vowels.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Vowels\Vowels\obj\Debug\net8.0-windows\ref\Vowels.dll

@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Chicken Farmer\Chicken Farmer\bin\Debug\net8.0-windows\Chicken Farmer.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Chicken Farmer\Chicken Farmer\bin\Debug\net8.0-windows\Chicken Farmer.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Chicken Farmer\Chicken Farmer\bin\Debug\net8.0-windows\Chicken Farmer.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Chicken Farmer\Chicken Farmer\bin\Debug\net8.0-windows\Chicken Farmer.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Chicken Farmer\Chicken Farmer\bin\Debug\net8.0-windows\Chicken Farmer.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Chicken Farmer\Chicken Farmer\obj\Debug\net8.0-windows\Chicken_Farmer.Form1.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Chicken Farmer\Chicken Farmer\obj\Debug\net8.0-windows\Chicken Farmer.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Chicken Farmer\Chicken Farmer\obj\Debug\net8.0-windows\Chicken Farmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Chicken Farmer\Chicken Farmer\obj\Debug\net8.0-windows\Chicken Farmer.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Chicken Farmer\Chicken Farmer\obj\Debug\net8.0-windows\Chicken Farmer.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Chicken Farmer\Chicken Farmer\obj\Debug\net8.0-windows\Chicken Farmer.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Chicken Farmer\Chicken Farmer\obj\Debug\net8.0-windows\Chicken Farmer.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Chicken Farmer\Chicken Farmer\obj\Debug\net8.0-windows\Chicken Farmer.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Chicken Farmer\Chicken Farmer\obj\Debug\net8.0-windows\refint\Chicken Farmer.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Chicken Farmer\Chicken Farmer\obj\Debug\net8.0-windows\Chicken Farmer.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Chicken Farmer\Chicken Farmer\obj\Debug\net8.0-windows\Chicken Farmer.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 4-5\Chicken Farmer\Chicken Farmer\obj\Debug\net8.0-windows\ref\Chicken Farmer.dll
