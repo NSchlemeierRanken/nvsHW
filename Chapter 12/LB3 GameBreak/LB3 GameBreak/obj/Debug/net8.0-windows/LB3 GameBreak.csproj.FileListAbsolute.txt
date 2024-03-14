@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB3 GameBreak\LB3 GameBreak\bin\Debug\net8.0-windows\LB3 GameBreak.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB3 GameBreak\LB3 GameBreak\bin\Debug\net8.0-windows\LB3 GameBreak.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB3 GameBreak\LB3 GameBreak\bin\Debug\net8.0-windows\LB3 GameBreak.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB3 GameBreak\LB3 GameBreak\bin\Debug\net8.0-windows\LB3 GameBreak.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB3 GameBreak\LB3 GameBreak\bin\Debug\net8.0-windows\LB3 GameBreak.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB3 GameBreak\LB3 GameBreak\obj\Debug\net8.0-windows\LB3_GameBreak.Form1.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB3 GameBreak\LB3 GameBreak\obj\Debug\net8.0-windows\LB3 GameBreak.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB3 GameBreak\LB3 GameBreak\obj\Debug\net8.0-windows\LB3 GameBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB3 GameBreak\LB3 GameBreak\obj\Debug\net8.0-windows\LB3 GameBreak.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB3 GameBreak\LB3 GameBreak\obj\Debug\net8.0-windows\LB3 GameBreak.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB3 GameBreak\LB3 GameBreak\obj\Debug\net8.0-windows\LB3 GameBreak.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB3 GameBreak\LB3 GameBreak\obj\Debug\net8.0-windows\LB3 GameBreak.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB3 GameBreak\LB3 GameBreak\obj\Debug\net8.0-windows\LB3 GameBreak.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB3 GameBreak\LB3 GameBreak\obj\Debug\net8.0-windows\refint\LB3 GameBreak.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB3 GameBreak\LB3 GameBreak\obj\Debug\net8.0-windows\LB3 GameBreak.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB3 GameBreak\LB3 GameBreak\obj\Debug\net8.0-windows\LB3 GameBreak.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB3 GameBreak\LB3 GameBreak\obj\Debug\net8.0-windows\ref\LB3 GameBreak.dll

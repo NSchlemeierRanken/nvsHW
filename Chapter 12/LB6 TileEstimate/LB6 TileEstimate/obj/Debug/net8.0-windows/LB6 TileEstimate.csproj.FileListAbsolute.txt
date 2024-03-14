@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB6 TileEstimate\LB6 TileEstimate\bin\Debug\net8.0-windows\LB6 TileEstimate.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB6 TileEstimate\LB6 TileEstimate\bin\Debug\net8.0-windows\LB6 TileEstimate.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB6 TileEstimate\LB6 TileEstimate\bin\Debug\net8.0-windows\LB6 TileEstimate.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB6 TileEstimate\LB6 TileEstimate\bin\Debug\net8.0-windows\LB6 TileEstimate.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB6 TileEstimate\LB6 TileEstimate\bin\Debug\net8.0-windows\LB6 TileEstimate.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB6 TileEstimate\LB6 TileEstimate\obj\Debug\net8.0-windows\LB6_TileEstimate.Tiling_Estimator.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB6 TileEstimate\LB6 TileEstimate\obj\Debug\net8.0-windows\LB6 TileEstimate.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB6 TileEstimate\LB6 TileEstimate\obj\Debug\net8.0-windows\LB6 TileEstimate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB6 TileEstimate\LB6 TileEstimate\obj\Debug\net8.0-windows\LB6 TileEstimate.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB6 TileEstimate\LB6 TileEstimate\obj\Debug\net8.0-windows\LB6 TileEstimate.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB6 TileEstimate\LB6 TileEstimate\obj\Debug\net8.0-windows\LB6 TileEstimate.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB6 TileEstimate\LB6 TileEstimate\obj\Debug\net8.0-windows\LB6 TileEstimate.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB6 TileEstimate\LB6 TileEstimate\obj\Debug\net8.0-windows\LB6 TileEstimate.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB6 TileEstimate\LB6 TileEstimate\obj\Debug\net8.0-windows\refint\LB6 TileEstimate.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB6 TileEstimate\LB6 TileEstimate\obj\Debug\net8.0-windows\LB6 TileEstimate.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB6 TileEstimate\LB6 TileEstimate\obj\Debug\net8.0-windows\LB6 TileEstimate.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB6 TileEstimate\LB6 TileEstimate\obj\Debug\net8.0-windows\ref\LB6 TileEstimate.dll

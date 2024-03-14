@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB1 FlashCards\LB1 FlashCards\bin\Debug\net8.0-windows\LB1 FlashCards.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB1 FlashCards\LB1 FlashCards\bin\Debug\net8.0-windows\LB1 FlashCards.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB1 FlashCards\LB1 FlashCards\bin\Debug\net8.0-windows\LB1 FlashCards.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB1 FlashCards\LB1 FlashCards\bin\Debug\net8.0-windows\LB1 FlashCards.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB1 FlashCards\LB1 FlashCards\bin\Debug\net8.0-windows\LB1 FlashCards.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB1 FlashCards\LB1 FlashCards\obj\Debug\net8.0-windows\LB1_FlashCards.Form1.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB1 FlashCards\LB1 FlashCards\obj\Debug\net8.0-windows\LB1 FlashCards.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB1 FlashCards\LB1 FlashCards\obj\Debug\net8.0-windows\LB1 FlashCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB1 FlashCards\LB1 FlashCards\obj\Debug\net8.0-windows\LB1 FlashCards.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB1 FlashCards\LB1 FlashCards\obj\Debug\net8.0-windows\LB1 FlashCards.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB1 FlashCards\LB1 FlashCards\obj\Debug\net8.0-windows\LB1 FlashCards.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB1 FlashCards\LB1 FlashCards\obj\Debug\net8.0-windows\LB1 FlashCards.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB1 FlashCards\LB1 FlashCards\obj\Debug\net8.0-windows\LB1 FlashCards.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB1 FlashCards\LB1 FlashCards\obj\Debug\net8.0-windows\refint\LB1 FlashCards.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB1 FlashCards\LB1 FlashCards\obj\Debug\net8.0-windows\LB1 FlashCards.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB1 FlashCards\LB1 FlashCards\obj\Debug\net8.0-windows\LB1 FlashCards.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB1 FlashCards\LB1 FlashCards\obj\Debug\net8.0-windows\ref\LB1 FlashCards.dll

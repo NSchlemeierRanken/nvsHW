@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\LB5 JobEstimate\LB5 JobEstimate\bin\Debug\net8.0-windows\LB5 JobEstimate.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\LB5 JobEstimate\LB5 JobEstimate\bin\Debug\net8.0-windows\LB5 JobEstimate.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\LB5 JobEstimate\LB5 JobEstimate\bin\Debug\net8.0-windows\LB5 JobEstimate.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\LB5 JobEstimate\LB5 JobEstimate\bin\Debug\net8.0-windows\LB5 JobEstimate.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\LB5 JobEstimate\LB5 JobEstimate\bin\Debug\net8.0-windows\LB5 JobEstimate.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\LB5 JobEstimate\LB5 JobEstimate\obj\Debug\net8.0-windows\LB5_JobEstimate.Job_Estimate.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\LB5 JobEstimate\LB5 JobEstimate\obj\Debug\net8.0-windows\LB5 JobEstimate.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\LB5 JobEstimate\LB5 JobEstimate\obj\Debug\net8.0-windows\LB5 JobEstimate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\LB5 JobEstimate\LB5 JobEstimate\obj\Debug\net8.0-windows\LB5 JobEstimate.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\LB5 JobEstimate\LB5 JobEstimate\obj\Debug\net8.0-windows\LB5 JobEstimate.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\LB5 JobEstimate\LB5 JobEstimate\obj\Debug\net8.0-windows\LB5 JobEstimate.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\LB5 JobEstimate\LB5 JobEstimate\obj\Debug\net8.0-windows\LB5 JobEstimate.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\LB5 JobEstimate\LB5 JobEstimate\obj\Debug\net8.0-windows\LB5 JobEstimate.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\LB5 JobEstimate\LB5 JobEstimate\obj\Debug\net8.0-windows\refint\LB5 JobEstimate.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\LB5 JobEstimate\LB5 JobEstimate\obj\Debug\net8.0-windows\LB5 JobEstimate.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\LB5 JobEstimate\LB5 JobEstimate\obj\Debug\net8.0-windows\LB5 JobEstimate.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\LB5 JobEstimate\LB5 JobEstimate\obj\Debug\net8.0-windows\ref\LB5 JobEstimate.dll

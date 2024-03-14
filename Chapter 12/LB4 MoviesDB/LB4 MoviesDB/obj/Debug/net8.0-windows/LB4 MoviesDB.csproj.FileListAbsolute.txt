@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB4 MoviesDB\LB4 MoviesDB\obj\Debug\net8.0-windows\LB4_MoviesDB.Form1.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB4 MoviesDB\LB4 MoviesDB\obj\Debug\net8.0-windows\LB4 MoviesDB.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB4 MoviesDB\LB4 MoviesDB\obj\Debug\net8.0-windows\LB4 MoviesDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB4 MoviesDB\LB4 MoviesDB\obj\Debug\net8.0-windows\LB4 MoviesDB.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB4 MoviesDB\LB4 MoviesDB\obj\Debug\net8.0-windows\LB4 MoviesDB.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB4 MoviesDB\LB4 MoviesDB\obj\Debug\net8.0-windows\LB4 MoviesDB.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB4 MoviesDB\LB4 MoviesDB\obj\Debug\net8.0-windows\LB4 MoviesDB.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB4 MoviesDB\LB4 MoviesDB\bin\Debug\net8.0-windows\LB4 MoviesDB.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB4 MoviesDB\LB4 MoviesDB\bin\Debug\net8.0-windows\LB4 MoviesDB.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB4 MoviesDB\LB4 MoviesDB\bin\Debug\net8.0-windows\LB4 MoviesDB.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB4 MoviesDB\LB4 MoviesDB\bin\Debug\net8.0-windows\LB4 MoviesDB.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB4 MoviesDB\LB4 MoviesDB\bin\Debug\net8.0-windows\LB4 MoviesDB.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB4 MoviesDB\LB4 MoviesDB\obj\Debug\net8.0-windows\LB4 MoviesDB.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB4 MoviesDB\LB4 MoviesDB\obj\Debug\net8.0-windows\refint\LB4 MoviesDB.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB4 MoviesDB\LB4 MoviesDB\obj\Debug\net8.0-windows\LB4 MoviesDB.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB4 MoviesDB\LB4 MoviesDB\obj\Debug\net8.0-windows\LB4 MoviesDB.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB4 MoviesDB\LB4 MoviesDB\obj\Debug\net8.0-windows\ref\LB4 MoviesDB.dll

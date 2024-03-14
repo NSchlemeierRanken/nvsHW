@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB2 BankLogin\LB2 BankLogin\bin\Debug\net8.0-windows\LB2 BankLogin.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB2 BankLogin\LB2 BankLogin\bin\Debug\net8.0-windows\LB2 BankLogin.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB2 BankLogin\LB2 BankLogin\bin\Debug\net8.0-windows\LB2 BankLogin.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB2 BankLogin\LB2 BankLogin\bin\Debug\net8.0-windows\LB2 BankLogin.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB2 BankLogin\LB2 BankLogin\bin\Debug\net8.0-windows\LB2 BankLogin.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB2 BankLogin\LB2 BankLogin\obj\Debug\net8.0-windows\LB2_BankLogin.Form1.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB2 BankLogin\LB2 BankLogin\obj\Debug\net8.0-windows\LB2 BankLogin.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB2 BankLogin\LB2 BankLogin\obj\Debug\net8.0-windows\LB2 BankLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB2 BankLogin\LB2 BankLogin\obj\Debug\net8.0-windows\LB2 BankLogin.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB2 BankLogin\LB2 BankLogin\obj\Debug\net8.0-windows\LB2 BankLogin.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB2 BankLogin\LB2 BankLogin\obj\Debug\net8.0-windows\LB2 BankLogin.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB2 BankLogin\LB2 BankLogin\obj\Debug\net8.0-windows\LB2 BankLogin.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB2 BankLogin\LB2 BankLogin\obj\Debug\net8.0-windows\LB2 BankLogin.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB2 BankLogin\LB2 BankLogin\obj\Debug\net8.0-windows\refint\LB2 BankLogin.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB2 BankLogin\LB2 BankLogin\obj\Debug\net8.0-windows\LB2 BankLogin.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB2 BankLogin\LB2 BankLogin\obj\Debug\net8.0-windows\LB2 BankLogin.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter 12\LB2 BankLogin\LB2 BankLogin\obj\Debug\net8.0-windows\ref\LB2 BankLogin.dll
