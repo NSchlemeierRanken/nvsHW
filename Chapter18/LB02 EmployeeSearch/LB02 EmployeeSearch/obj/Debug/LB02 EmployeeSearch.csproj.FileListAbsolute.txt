@@ -1,0 +1,7 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB02 EmployeeSearch\LB02 EmployeeSearch\bin\Debug\LB02 EmployeeSearch.exe.config
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB02 EmployeeSearch\LB02 EmployeeSearch\bin\Debug\LB02 EmployeeSearch.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB02 EmployeeSearch\LB02 EmployeeSearch\bin\Debug\LB02 EmployeeSearch.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB02 EmployeeSearch\LB02 EmployeeSearch\obj\Debug\LB02 EmployeeSearch.csproj.AssemblyReference.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB02 EmployeeSearch\LB02 EmployeeSearch\obj\Debug\LB02 EmployeeSearch.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB02 EmployeeSearch\LB02 EmployeeSearch\obj\Debug\LB02 EmployeeSearch.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB02 EmployeeSearch\LB02 EmployeeSearch\obj\Debug\LB02 EmployeeSearch.pdb

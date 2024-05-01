@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB01 SongSearch\LB01 SongSearch\bin\Debug\net8.0-windows\LB01 SongSearch.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB01 SongSearch\LB01 SongSearch\bin\Debug\net8.0-windows\LB01 SongSearch.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB01 SongSearch\LB01 SongSearch\bin\Debug\net8.0-windows\LB01 SongSearch.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB01 SongSearch\LB01 SongSearch\bin\Debug\net8.0-windows\LB01 SongSearch.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB01 SongSearch\LB01 SongSearch\bin\Debug\net8.0-windows\LB01 SongSearch.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB01 SongSearch\LB01 SongSearch\obj\Debug\net8.0-windows\LB01_SongSearch.FrmSongSearch.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB01 SongSearch\LB01 SongSearch\obj\Debug\net8.0-windows\LB01 SongSearch.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB01 SongSearch\LB01 SongSearch\obj\Debug\net8.0-windows\LB01 SongSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB01 SongSearch\LB01 SongSearch\obj\Debug\net8.0-windows\LB01 SongSearch.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB01 SongSearch\LB01 SongSearch\obj\Debug\net8.0-windows\LB01 SongSearch.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB01 SongSearch\LB01 SongSearch\obj\Debug\net8.0-windows\LB01 SongSearch.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB01 SongSearch\LB01 SongSearch\obj\Debug\net8.0-windows\LB01 SongSearch.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB01 SongSearch\LB01 SongSearch\obj\Debug\net8.0-windows\LB01 SongSearch.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB01 SongSearch\LB01 SongSearch\obj\Debug\net8.0-windows\refint\LB01 SongSearch.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB01 SongSearch\LB01 SongSearch\obj\Debug\net8.0-windows\LB01 SongSearch.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB01 SongSearch\LB01 SongSearch\obj\Debug\net8.0-windows\LB01 SongSearch.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB01 SongSearch\LB01 SongSearch\obj\Debug\net8.0-windows\ref\LB01 SongSearch.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LB01 SongSearch/1.0.0": {
+        "runtime": {
+          "LB01 SongSearch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LB01 SongSearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

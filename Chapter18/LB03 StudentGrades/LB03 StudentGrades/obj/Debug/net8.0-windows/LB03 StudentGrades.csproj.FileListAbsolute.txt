@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB03 StudentGrades\LB03 StudentGrades\bin\Debug\net8.0-windows\LB03 StudentGrades.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB03 StudentGrades\LB03 StudentGrades\bin\Debug\net8.0-windows\LB03 StudentGrades.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB03 StudentGrades\LB03 StudentGrades\bin\Debug\net8.0-windows\LB03 StudentGrades.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB03 StudentGrades\LB03 StudentGrades\bin\Debug\net8.0-windows\LB03 StudentGrades.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB03 StudentGrades\LB03 StudentGrades\bin\Debug\net8.0-windows\LB03 StudentGrades.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB03 StudentGrades\LB03 StudentGrades\obj\Debug\net8.0-windows\LB03_StudentGrades.frmStudentGrades.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB03 StudentGrades\LB03 StudentGrades\obj\Debug\net8.0-windows\LB03 StudentGrades.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB03 StudentGrades\LB03 StudentGrades\obj\Debug\net8.0-windows\LB03 StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB03 StudentGrades\LB03 StudentGrades\obj\Debug\net8.0-windows\LB03 StudentGrades.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB03 StudentGrades\LB03 StudentGrades\obj\Debug\net8.0-windows\LB03 StudentGrades.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB03 StudentGrades\LB03 StudentGrades\obj\Debug\net8.0-windows\LB03 StudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB03 StudentGrades\LB03 StudentGrades\obj\Debug\net8.0-windows\LB03 StudentGrades.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB03 StudentGrades\LB03 StudentGrades\obj\Debug\net8.0-windows\LB03 StudentGrades.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB03 StudentGrades\LB03 StudentGrades\obj\Debug\net8.0-windows\refint\LB03 StudentGrades.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB03 StudentGrades\LB03 StudentGrades\obj\Debug\net8.0-windows\LB03 StudentGrades.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB03 StudentGrades\LB03 StudentGrades\obj\Debug\net8.0-windows\LB03 StudentGrades.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chapter18\LB03 StudentGrades\LB03 StudentGrades\obj\Debug\net8.0-windows\ref\LB03 StudentGrades.dll
