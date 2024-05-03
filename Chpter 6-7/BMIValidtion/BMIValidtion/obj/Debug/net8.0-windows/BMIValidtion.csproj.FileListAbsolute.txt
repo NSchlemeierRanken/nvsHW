@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIValidtion\BMIValidtion\bin\Debug\net8.0-windows\BMIValidtion.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIValidtion\BMIValidtion\bin\Debug\net8.0-windows\BMIValidtion.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIValidtion\BMIValidtion\bin\Debug\net8.0-windows\BMIValidtion.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIValidtion\BMIValidtion\bin\Debug\net8.0-windows\BMIValidtion.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIValidtion\BMIValidtion\bin\Debug\net8.0-windows\BMIValidtion.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIValidtion\BMIValidtion\obj\Debug\net8.0-windows\BMIValidtion.Form1.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIValidtion\BMIValidtion\obj\Debug\net8.0-windows\BMIValidtion.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIValidtion\BMIValidtion\obj\Debug\net8.0-windows\BMIValidtion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIValidtion\BMIValidtion\obj\Debug\net8.0-windows\BMIValidtion.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIValidtion\BMIValidtion\obj\Debug\net8.0-windows\BMIValidtion.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIValidtion\BMIValidtion\obj\Debug\net8.0-windows\BMIValidtion.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIValidtion\BMIValidtion\obj\Debug\net8.0-windows\BMIValidtion.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIValidtion\BMIValidtion\obj\Debug\net8.0-windows\BMIValidtion.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIValidtion\BMIValidtion\obj\Debug\net8.0-windows\refint\BMIValidtion.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIValidtion\BMIValidtion\obj\Debug\net8.0-windows\BMIValidtion.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIValidtion\BMIValidtion\obj\Debug\net8.0-windows\BMIValidtion.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIValidtion\BMIValidtion\obj\Debug\net8.0-windows\ref\BMIValidtion.dll

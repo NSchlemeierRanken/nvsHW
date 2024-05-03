@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrdersValidation\OrdersValidation\bin\Debug\net8.0-windows\OrdersValidation.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrdersValidation\OrdersValidation\bin\Debug\net8.0-windows\OrdersValidation.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrdersValidation\OrdersValidation\bin\Debug\net8.0-windows\OrdersValidation.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrdersValidation\OrdersValidation\bin\Debug\net8.0-windows\OrdersValidation.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrdersValidation\OrdersValidation\bin\Debug\net8.0-windows\OrdersValidation.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrdersValidation\OrdersValidation\obj\Debug\net8.0-windows\OrdersValidation.Form1.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrdersValidation\OrdersValidation\obj\Debug\net8.0-windows\OrdersValidation.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrdersValidation\OrdersValidation\obj\Debug\net8.0-windows\OrdersValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrdersValidation\OrdersValidation\obj\Debug\net8.0-windows\OrdersValidation.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrdersValidation\OrdersValidation\obj\Debug\net8.0-windows\OrdersValidation.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrdersValidation\OrdersValidation\obj\Debug\net8.0-windows\OrdersValidation.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrdersValidation\OrdersValidation\obj\Debug\net8.0-windows\OrdersValidation.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrdersValidation\OrdersValidation\obj\Debug\net8.0-windows\OrdersValidation.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrdersValidation\OrdersValidation\obj\Debug\net8.0-windows\refint\OrdersValidation.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrdersValidation\OrdersValidation\obj\Debug\net8.0-windows\OrdersValidation.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrdersValidation\OrdersValidation\obj\Debug\net8.0-windows\OrdersValidation.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrdersValidation\OrdersValidation\obj\Debug\net8.0-windows\ref\OrdersValidation.dll

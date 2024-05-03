@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{87203EBD-0B8E-457B-94CB-C3F7E4929F9C}|LB01 SongSearch\\LB01 SongSearch.csproj|solutionrelative:lb01 songsearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87203EBD-0B8E-457B-94CB-C3F7E4929F9C}|LB01 SongSearch\\LB01 SongSearch.csproj|c:\\users\\nathan schlemeier\\desktop\\nvshw\\chapter18\\lb01 songsearch\\lb01 songsearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{87203EBD-0B8E-457B-94CB-C3F7E4929F9C}|LB01 SongSearch\\LB01 SongSearch.csproj|C:\\Users\\Nathan Schlemeier\\Desktop\\nvsHW\\Chapter18\\LB01 SongSearch\\lb01 songsearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{87203EBD-0B8E-457B-94CB-C3F7E4929F9C}|LB01 SongSearch\\LB01 SongSearch.csproj|solutionrelative:lb01 songsearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "LB01 SongSearch\\Form1.cs",
               "ToolTip": "C:\\Users\\Nathan Schlemeier\\Desktop\\nvsHW\\Chapter18\\LB01 SongSearch\\LB01 SongSearch\\Form1.cs",
               "RelativeToolTip": "LB01 SongSearch\\Form1.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAA3wGQAAAAFAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAwGQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T08:20:55.387Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\Nathan Schlemeier\\Desktop\\nvsHW\\Chapter18\\LB01 SongSearch\\LB01 SongSearch\\Form1.cs [Design]",
               "RelativeToolTip": "LB01 SongSearch\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T08:18:28.058Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-01T08:18:28.058Z"
             }
           ]
         }

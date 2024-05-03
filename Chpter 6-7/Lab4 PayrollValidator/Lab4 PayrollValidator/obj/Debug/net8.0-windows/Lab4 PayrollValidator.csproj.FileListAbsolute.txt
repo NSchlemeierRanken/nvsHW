@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab4 PayrollValidator\Lab4 PayrollValidator\bin\Debug\net8.0-windows\Lab4 PayrollValidator.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab4 PayrollValidator\Lab4 PayrollValidator\bin\Debug\net8.0-windows\Lab4 PayrollValidator.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab4 PayrollValidator\Lab4 PayrollValidator\bin\Debug\net8.0-windows\Lab4 PayrollValidator.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab4 PayrollValidator\Lab4 PayrollValidator\bin\Debug\net8.0-windows\Lab4 PayrollValidator.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab4 PayrollValidator\Lab4 PayrollValidator\bin\Debug\net8.0-windows\Lab4 PayrollValidator.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab4 PayrollValidator\Lab4 PayrollValidator\obj\Debug\net8.0-windows\Lab4_PayrollValidator.Form1.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab4 PayrollValidator\Lab4 PayrollValidator\obj\Debug\net8.0-windows\Lab4 PayrollValidator.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab4 PayrollValidator\Lab4 PayrollValidator\obj\Debug\net8.0-windows\Lab4 PayrollValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab4 PayrollValidator\Lab4 PayrollValidator\obj\Debug\net8.0-windows\Lab4 PayrollValidator.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab4 PayrollValidator\Lab4 PayrollValidator\obj\Debug\net8.0-windows\Lab4 PayrollValidator.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab4 PayrollValidator\Lab4 PayrollValidator\obj\Debug\net8.0-windows\Lab4 PayrollValidator.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab4 PayrollValidator\Lab4 PayrollValidator\obj\Debug\net8.0-windows\Lab4 PayrollValidator.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab4 PayrollValidator\Lab4 PayrollValidator\obj\Debug\net8.0-windows\Lab4 PayrollValidator.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab4 PayrollValidator\Lab4 PayrollValidator\obj\Debug\net8.0-windows\refint\Lab4 PayrollValidator.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab4 PayrollValidator\Lab4 PayrollValidator\obj\Debug\net8.0-windows\Lab4 PayrollValidator.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab4 PayrollValidator\Lab4 PayrollValidator\obj\Debug\net8.0-windows\Lab4 PayrollValidator.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab4 PayrollValidator\Lab4 PayrollValidator\obj\Debug\net8.0-windows\ref\Lab4 PayrollValidator.dll

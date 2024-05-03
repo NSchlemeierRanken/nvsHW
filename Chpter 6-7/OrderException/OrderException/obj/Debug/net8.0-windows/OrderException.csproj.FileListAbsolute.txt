@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrderException\OrderException\bin\Debug\net8.0-windows\OrderException.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrderException\OrderException\bin\Debug\net8.0-windows\OrderException.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrderException\OrderException\bin\Debug\net8.0-windows\OrderException.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrderException\OrderException\bin\Debug\net8.0-windows\OrderException.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrderException\OrderException\bin\Debug\net8.0-windows\OrderException.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrderException\OrderException\obj\Debug\net8.0-windows\OrderException.Form1.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrderException\OrderException\obj\Debug\net8.0-windows\OrderException.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrderException\OrderException\obj\Debug\net8.0-windows\OrderException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrderException\OrderException\obj\Debug\net8.0-windows\OrderException.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrderException\OrderException\obj\Debug\net8.0-windows\OrderException.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrderException\OrderException\obj\Debug\net8.0-windows\OrderException.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrderException\OrderException\obj\Debug\net8.0-windows\OrderException.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrderException\OrderException\obj\Debug\net8.0-windows\OrderException.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrderException\OrderException\obj\Debug\net8.0-windows\refint\OrderException.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrderException\OrderException\obj\Debug\net8.0-windows\OrderException.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrderException\OrderException\obj\Debug\net8.0-windows\OrderException.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\OrderException\OrderException\obj\Debug\net8.0-windows\ref\OrderException.dll

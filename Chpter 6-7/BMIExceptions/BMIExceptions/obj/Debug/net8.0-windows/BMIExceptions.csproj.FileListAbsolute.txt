@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIExceptions\BMIExceptions\bin\Debug\net8.0-windows\BMIExceptions.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIExceptions\BMIExceptions\bin\Debug\net8.0-windows\BMIExceptions.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIExceptions\BMIExceptions\bin\Debug\net8.0-windows\BMIExceptions.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIExceptions\BMIExceptions\bin\Debug\net8.0-windows\BMIExceptions.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIExceptions\BMIExceptions\bin\Debug\net8.0-windows\BMIExceptions.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIExceptions\BMIExceptions\obj\Debug\net8.0-windows\BMIExceptions.Form1.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIExceptions\BMIExceptions\obj\Debug\net8.0-windows\BMIExceptions.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIExceptions\BMIExceptions\obj\Debug\net8.0-windows\BMIExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIExceptions\BMIExceptions\obj\Debug\net8.0-windows\BMIExceptions.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIExceptions\BMIExceptions\obj\Debug\net8.0-windows\BMIExceptions.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIExceptions\BMIExceptions\obj\Debug\net8.0-windows\BMIExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIExceptions\BMIExceptions\obj\Debug\net8.0-windows\BMIExceptions.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIExceptions\BMIExceptions\obj\Debug\net8.0-windows\BMIExceptions.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIExceptions\BMIExceptions\obj\Debug\net8.0-windows\refint\BMIExceptions.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIExceptions\BMIExceptions\obj\Debug\net8.0-windows\BMIExceptions.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIExceptions\BMIExceptions\obj\Debug\net8.0-windows\BMIExceptions.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\BMIExceptions\BMIExceptions\obj\Debug\net8.0-windows\ref\BMIExceptions.dll

@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab3 GradeExceptions\Lab3 GradeExceptions\bin\Debug\net8.0-windows\Lab3 GradeExceptions.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab3 GradeExceptions\Lab3 GradeExceptions\bin\Debug\net8.0-windows\Lab3 GradeExceptions.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab3 GradeExceptions\Lab3 GradeExceptions\bin\Debug\net8.0-windows\Lab3 GradeExceptions.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab3 GradeExceptions\Lab3 GradeExceptions\bin\Debug\net8.0-windows\Lab3 GradeExceptions.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab3 GradeExceptions\Lab3 GradeExceptions\bin\Debug\net8.0-windows\Lab3 GradeExceptions.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab3 GradeExceptions\Lab3 GradeExceptions\obj\Debug\net8.0-windows\Lab3_GradeExceptions.Form1.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab3 GradeExceptions\Lab3 GradeExceptions\obj\Debug\net8.0-windows\Lab3 GradeExceptions.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab3 GradeExceptions\Lab3 GradeExceptions\obj\Debug\net8.0-windows\Lab3 GradeExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab3 GradeExceptions\Lab3 GradeExceptions\obj\Debug\net8.0-windows\Lab3 GradeExceptions.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab3 GradeExceptions\Lab3 GradeExceptions\obj\Debug\net8.0-windows\Lab3 GradeExceptions.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab3 GradeExceptions\Lab3 GradeExceptions\obj\Debug\net8.0-windows\Lab3 GradeExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab3 GradeExceptions\Lab3 GradeExceptions\obj\Debug\net8.0-windows\Lab3 GradeExceptions.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab3 GradeExceptions\Lab3 GradeExceptions\obj\Debug\net8.0-windows\Lab3 GradeExceptions.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab3 GradeExceptions\Lab3 GradeExceptions\obj\Debug\net8.0-windows\refint\Lab3 GradeExceptions.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab3 GradeExceptions\Lab3 GradeExceptions\obj\Debug\net8.0-windows\Lab3 GradeExceptions.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab3 GradeExceptions\Lab3 GradeExceptions\obj\Debug\net8.0-windows\Lab3 GradeExceptions.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHW\Chpter 6-7\Lab3 GradeExceptions\Lab3 GradeExceptions\obj\Debug\net8.0-windows\ref\Lab3 GradeExceptions.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LB01 SongSearch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fa5a3f25ad4f59c9ccfad29d0de63db44f89c95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5171c24846bf0e2fd53556edf62f8ba69de4115e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LB01 SongSearch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LB01 SongSearch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
